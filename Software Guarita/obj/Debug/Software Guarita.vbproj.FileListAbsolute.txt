@@ -1,0 +1,379 @@
+C:\Users\Fe Brandão\Desktop\Software Guarita\Software Guarita\bin\Debug\Software Guarita.exe.config
+C:\Users\Fe Brandão\Desktop\Software Guarita\Software Guarita\obj\Debug\Software_Guarita.Resources.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita\Software Guarita\obj\Debug\Software Guarita.vbproj.GenerateResource.Cache
+C:\Users\Fe Brandão\Desktop\Software Guarita\Software Guarita\bin\Debug\Software Guarita.exe
+C:\Users\Fe Brandão\Desktop\Software Guarita\Software Guarita\bin\Debug\Software Guarita.pdb
+C:\Users\Fe Brandão\Desktop\Software Guarita\Software Guarita\bin\Debug\Software Guarita.xml
+C:\Users\Fe Brandão\Desktop\Software Guarita\Software Guarita\obj\Debug\Software Guarita.exe
+C:\Users\Fe Brandão\Desktop\Software Guarita\Software Guarita\obj\Debug\Software Guarita.xml
+C:\Users\Fe Brandão\Desktop\Software Guarita\Software Guarita\obj\Debug\Software Guarita.pdb
+C:\Users\Fe Brandão\Desktop\Software Guarita\Software Guarita\obj\Debug\Software_Guarita.Cadastro.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita\Software Guarita\obj\Debug\Software_Guarita.Entradas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita\Software Guarita\obj\Debug\Software_Guarita.inicio.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita\Software Guarita\obj\Debug\Software_Guarita.Menus.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita\Software Guarita\obj\Debug\Software_Guarita.Monitoramento.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita\Software Guarita\obj\Debug\Software_Guarita.Saidas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.exe.config
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.exe
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.xml
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.pdb
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.exe
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.pdb
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.xml
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Cadastro.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Entradas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.inicio.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Menus.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Monitoramento.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Resources.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Saidas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.vbproj.GenerateResource.Cache
+D:\Users\DAVI\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.exe.config
+D:\Users\DAVI\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.exe
+D:\Users\DAVI\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.xml
+D:\Users\DAVI\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.pdb
+D:\Users\DAVI\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Cadastro.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Entradas.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.inicio.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Menus.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Monitoramento.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Resources.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Saidas.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.vbproj.GenerateResource.Cache
+D:\Users\DAVI\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\progguarita.accdb
+D:\Users\DAVI\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.exe
+D:\Users\DAVI\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.pdb
+D:\Users\DAVI\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.xml
+D:\Users\DAVI\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Alterar.resources
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\progguarita.accdb
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.exe.config
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.exe
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.pdb
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.xml
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.vbprojAssemblyReference.cache
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Alterar.resources
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Cadastro.resources
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Entradas.resources
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.inicio.resources
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Menus.resources
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Monitoramento.resources
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Resources.resources
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Saidas.resources
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.vbproj.GenerateResource.cache
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.vbproj.CoreCompileInputs.cache
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.exe
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.xml
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.pdb
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.CadUpt.resources
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.EntradaUpt.resources
+C:\Users\BIG33\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.SaidaUpt.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\progguarita.accdb
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.exe.config
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.exe
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.pdb
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.xml
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.vbprojAssemblyReference.cache
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Alterar.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Cadastro.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.CadUpt.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Entradas.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.EntradaUpt.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.inicio.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Menus.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Monitoramento.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Resources.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Saidas.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.SaidaUpt.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.vbproj.GenerateResource.cache
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.vbproj.CoreCompileInputs.cache
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.exe
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.xml
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.pdb
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.exe.config
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.exe
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.xml
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.pdb
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.vbprojResolveAssemblyReference.cache
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Alterar.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Cadastro.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.CadUpt.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Entradas.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.EntradaUpt.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.inicio.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Menus.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Monitoramento.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Resources.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Rlt_Entrada.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Saidas.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.SaidaUpt.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.vbproj.GenerateResource.Cache
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\RdlCompile.cache
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\RdlCompile.compiled
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\progguarita.accdb
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.exe
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.pdb
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\Software Guarita.xml
+C:\Users\Crlo\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Rtl_Saida.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\bin\Debug\progguarita.accdb
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software Guarita.vbprojResolveAssemblyReference.cache
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Consultar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Alterar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\RdlCompile.cache
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\RdlCompile.compiled
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Manualalterar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Manualcadastrar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Manualconsulta.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Manualentradas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Manualmenu.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Manualmonitoramento.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL\Software Guarita\obj\Debug\Software_Guarita.Manualsaidas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\bin\Debug\Software Guarita.exe.config
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software Guarita.exe
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software Guarita.xml
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software Guarita.pdb
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\bin\Debug\progguarita.accdb
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\bin\Debug\Software Guarita.exe
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\bin\Debug\Software Guarita.pdb
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\bin\Debug\Software Guarita.xml
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software Guarita.vbprojResolveAssemblyReference.cache
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Consultar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Cadastro.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Alterar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Entradas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.inicio.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Manualalterar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Manualcadastrar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Manualconsulta.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Manualentradas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Manualmenu.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Manualmonitoramento.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Manualsaidas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Menus.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Monitoramento.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Resources.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Saidas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software Guarita.vbproj.GenerateResource.Cache
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\RdlCompile.cache
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\RdlCompile.compiled
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\bin\Debug\Software Guarita.exe.config
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software Guarita.exe
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software Guarita.xml
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software Guarita.pdb
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\bin\Debug\progguarita.accdb
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\bin\Debug\Software Guarita.exe
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\bin\Debug\Software Guarita.pdb
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\bin\Debug\Software Guarita.xml
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software Guarita.vbprojResolveAssemblyReference.cache
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Consultar.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Cadastro.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Alterar.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Entradas.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.inicio.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Manualalterar.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Manualcadastrar.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Manualconsulta.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Manualentradas.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Manualmenu.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Manualmonitoramento.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Manualsaidas.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Menus.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Monitoramento.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Resources.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software_Guarita.Saidas.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\Software Guarita.vbproj.GenerateResource.Cache
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\RdlCompile.cache
+D:\Users\DAVI\Desktop\Software Guarita - FINAL - 1.2\Software Guarita\obj\Debug\RdlCompile.compiled
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações\Software Guarita\bin\Debug\Software Guarita.exe.config
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações\Software Guarita\obj\Debug\Software Guarita.exe
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações\Software Guarita\obj\Debug\Software Guarita.xml
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações\Software Guarita\obj\Debug\Software Guarita.pdb
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\bin\Debug\Software Guarita.exe.config
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software Guarita.exe
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software Guarita.xml
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software Guarita.pdb
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\bin\Debug\progguarita.accdb
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\bin\Debug\Software Guarita.exe
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\bin\Debug\Software Guarita.pdb
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\bin\Debug\Software Guarita.xml
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software Guarita.vbprojResolveAssemblyReference.cache
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software_Guarita.Consultar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software_Guarita.Cadastro.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software_Guarita.Alterar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software_Guarita.Entradas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software_Guarita.inicio.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software_Guarita.Manualalterar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software_Guarita.Manualcadastrar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software_Guarita.Manualconsulta.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software_Guarita.manualdoc.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software_Guarita.Manualentradas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software_Guarita.Manualmenu.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software_Guarita.Manualmonitoramento.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software_Guarita.Manualsaidas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software_Guarita.Menus.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software_Guarita.Monitoramento.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software_Guarita.Resources.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software_Guarita.Relatorioentrada.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software_Guarita.Relatoriosaida.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software_Guarita.Saidas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\Software Guarita.vbproj.GenerateResource.Cache
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\RdlCompile.cache
+C:\Users\Fe Brandão\Desktop\Software Guarita - alterações - 1.3\Software Guarita\obj\Debug\RdlCompile.compiled
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\bin\Debug\Software Guarita.exe.config
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software Guarita.exe
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software Guarita.xml
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software Guarita.pdb
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\bin\Debug\progguarita.accdb
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\bin\Debug\Software Guarita.exe
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\bin\Debug\Software Guarita.pdb
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\bin\Debug\Software Guarita.xml
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software Guarita.vbprojResolveAssemblyReference.cache
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software_Guarita.Consultar.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software_Guarita.Cadastro.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software_Guarita.Alterar.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software_Guarita.Entradas.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software_Guarita.inicio.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software_Guarita.Manualalterar.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software_Guarita.Manualcadastrar.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software_Guarita.Manualconsulta.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software_Guarita.manualdoc.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software_Guarita.Manualentradas.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software_Guarita.Manualmenu.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software_Guarita.Manualmonitoramento.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software_Guarita.Manualsaidas.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software_Guarita.Menus.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software_Guarita.Monitoramento.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software_Guarita.Resources.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software_Guarita.Relatorioentrada.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software_Guarita.Relatoriosaida.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software_Guarita.Saidas.resources
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\Software Guarita.vbproj.GenerateResource.Cache
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\RdlCompile.cache
+C:\Users\Crlo\Desktop\Software Guarita - FINAL 1.3\Software Guarita\obj\Debug\RdlCompile.compiled
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\bin\Debug\Software Guarita.exe.config
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software Guarita.exe
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software Guarita.xml
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software Guarita.pdb
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\bin\Debug\progguarita.accdb
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\bin\Debug\Software Guarita.exe
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\bin\Debug\Software Guarita.pdb
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\bin\Debug\Software Guarita.xml
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software Guarita.vbprojResolveAssemblyReference.cache
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.Consultar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.Cadastro.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.Alterar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.Entradas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.inicio.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.Manualalterar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.Manualcadastrar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.Manualconsulta.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.Manualentradas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.Manualmenu.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.Manualmonitoramento.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.Manualsaidas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.Menus.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.Monitoramento.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.Resources.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.Relatorioentrada.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.Relatoriosaida.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.Saidas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software Guarita.vbproj.GenerateResource.Cache
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\RdlCompile.cache
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\RdlCompile.compiled
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.Manualrelatorioentrada.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.4\Software Guarita\obj\Debug\Software_Guarita.manualrelatoriosaida.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\bin\Debug\Software Guarita.exe.config
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software Guarita.exe
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software Guarita.xml
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software Guarita.pdb
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\bin\Debug\progguarita.accdb
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\bin\Debug\Software Guarita.exe
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\bin\Debug\Software Guarita.pdb
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\bin\Debug\Software Guarita.xml
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software Guarita.vbprojResolveAssemblyReference.cache
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Consultar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Cadastro.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Alterar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Entradas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.inicio.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualalterar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualcadastrar.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualconsulta.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualentradas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualmenu.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualmonitoramento.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualrelatorioentrada.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.manualrelatoriosaida.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualsaidas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Menus.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Monitoramento.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Resources.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Relatorioentrada.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Relatoriosaida.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Saidas.resources
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software Guarita.vbproj.GenerateResource.Cache
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\RdlCompile.cache
+C:\Users\Fe Brandão\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\RdlCompile.compiled
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\bin\Debug\Software Guarita.exe.config
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software Guarita.exe
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software Guarita.xml
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software Guarita.pdb
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\bin\Debug\progguarita.accdb
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\bin\Debug\Software Guarita.exe
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\bin\Debug\Software Guarita.pdb
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\bin\Debug\Software Guarita.xml
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software Guarita.vbprojResolveAssemblyReference.cache
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Consultar.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Cadastro.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Alterar.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Entradas.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.inicio.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualalterar.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualcadastrar.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualconsulta.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualentradas.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualmenu.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualmonitoramento.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualrelatorioentrada.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.manualrelatoriosaida.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualsaidas.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Menus.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Monitoramento.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Resources.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Relatorioentrada.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Relatoriosaida.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Saidas.resources
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software Guarita.vbproj.GenerateResource.Cache
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\RdlCompile.cache
+D:\Users\DAVI\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\RdlCompile.compiled
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\bin\Debug\Software Guarita.exe.config
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software Guarita.exe
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software Guarita.xml
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software Guarita.pdb
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\bin\Debug\progguarita.accdb
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\bin\Debug\Software Guarita.exe
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\bin\Debug\Software Guarita.pdb
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\bin\Debug\Software Guarita.xml
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software Guarita.vbprojResolveAssemblyReference.cache
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Consultar.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Cadastro.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Alterar.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Entradas.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.inicio.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualalterar.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualcadastrar.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualconsulta.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualentradas.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualmenu.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualmonitoramento.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualrelatorioentrada.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.manualrelatoriosaida.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Manualsaidas.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Menus.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Monitoramento.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Resources.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Relatorioentrada.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Relatoriosaida.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software_Guarita.Saidas.resources
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\Software Guarita.vbproj.GenerateResource.Cache
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\RdlCompile.cache
+C:\Users\Thiago Silva Lopes\Desktop\Software Guarita - FINAL 1.5\Software Guarita\obj\Debug\RdlCompile.compiled
